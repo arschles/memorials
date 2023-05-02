@@ -214,38 +214,10 @@ During that KubeCon, she guided me, whenever we had a session in common, she wou
 
 May you rest in peace, your legacy definitively lives on 🦄🌈
 
-## Danilo (Dan) Chiarlone
+## Aaron Schlesinger
 
-When I first joined the Steelthread team, Carolyn was the very first person to set up a meeting with me to welcome me to the team. She said that starting to work with a new group of people can be overwhelming, and just want to make sure I knew she would always be around to help me with anything I needed. Just recently, with most of our team being at KubeCon, I had the pleasure of having another meeting with her where there was only the two of us. This time, having worked together for over a year already, we went beyond the superficial and got a chance to talk about our lives, cats, ordering bulk assorted nuts, and a ton more, but, just like back when I had first joined the team, she reminded me she was always down to have 1:1s like so to catch-up and chat. I wish I had had the chance to do that more. Carolyn was a kind, and thoughtful person, who was very committed to making any place she passed by a better one.
+I had the good fortune of meeting Carolyn in 2017 when she joined Microsoft, and we became fast friends. Over the years, we talked about life, work, open source, and many other things we had in common. I got to work on several projects with her and got to know her as an outstanding engineer, compassionate community leader, and all-around great person.
 
-You were taken too soon, Carolyn. I miss you very much.
+One of the recent highlights of my career was going to get ramen with Carolyn and David after GopherCon 2022. That day stands out in my mind because it represents some important things Carolyn valued - finding room for human connection and taking the time to experience life to its fullest, even when we're busy.
 
-## Ryan Hartje
-
-I'm devistated to hear the news. Carolyn was a rare force of kindness, engineering, and personality. I didn't get the pleasure to work closely with her save for occasional Porter workshops and other CNCF events, but every time she brought an undeniable energy to every occasion. It's a sad day for us all to have lost someone who set a high bar for human compansion coupled with great engineering talent. My condolenses especially to the family.
-
-Let us all try a little harder to be kind to each other in her honor. 
-
-## Joshua Bezaleel Abednego
-The chance I had to contributing to Porter and to know Carolyn was one of the best time I had in life, the one that I will always treasure for the rest of it. She was the kindest and the best of open source there is. She shaped the lives of so many people for the better. The interaction I had with her didn't just make me a better software engineer, but as Ralph said, she gave the example on how to be human and how to treat others. She made sure there's room for everyone which then she greeted with smile and welcoming hands. 
-
-I hope her kindness and warmth lives on. Let's make sure her kindness and warmth lives on through each and everyone of us. In open source community, and in life. 
-
-You will be dearly missed, Carolyn. Thank you for everything. Rest in love.
-
-## Emma Irwin
-I am having trouble processing how it is possible to lose someone who was such a light, with so much accomplished and yet so much more to do. I am devastated. Her thoughts were always around '*how can we do more, how can we do better on behalf of those with less time, less opportunity, less visibility, less priveledge*'.  Most recently I had the absolute honour to work with her on a small group dedicated to helping Open Source projects at Microsoft get better at onboarding, uplifting and empowering diverse contributors. I always left my conversations with Carolyn having learned something - she was SO SMART, but in ways you also cannot teach. She had a strong intuition, which she was able to articulate and teach in ways that brought others in, empowered and uplifted them. She was a friend, an inspiration. I will miss Carolyn terribly, and will take it as a personal goal to teach others, what I learned from her so that forever on, her impact will continue.  Thank you Carolyn, and to her family - we never took her for granted, I am so sorry for your loss.
-
-## Steven Gettys
-
-I can't believe I am having to write this and am devastated to have lost such an incredible, welcoming, kind individual that I was slowly starting to call friend! I only had the pleasure of knowing Carolyn for just around 18 months and that is not enough time to spend with such an amazing human being! To see the passion she approached her job and the joy she lived her life with is something to aspire to.
-
-Carolyn, thank you from the bottom of my heart for introducing me to the wonderful community you were a part of. I will forever be grateful for the impact you had on me. I was looking forward to working with you for the foreseeable future and learning everything I could! You were a wealth of knowledge and enthusiasm and will be so greatly missed by everyone whose life you touched. We will see your legacy moved forward and never let the memory of what you brought to us be lost.
-
-## Jonathan Berkhahn
-
-I met Carolyn when we both worked on Service Catalog. We worked on subprojects toegther, we gave talks at Kubecon together. She worked tirelessly to better the communities she was a part of of and herself. I hadn't spoken to her much since she moved on to better and brighter things with the CNCF TAG. I wish I had. I don't know what else to say. Goodbye Carolyn.
-
-## Simon Davies
-
-I have worked on the same team as Carolyn for the past 3 years. Much has already been said above about her qualities. I knew her as someone who was deeply passionate and caring, this applied to everything she did, the technology she was using, the technology she was creating, the people that she wanted to benefit from her innovation, the people she wanted to help and the people that she worked with in our team , in Microsoft and in the community. She was always willing and able to give sound advice and insightful feedback. To say she will be missed is a massive understatement. Rest in Peace Carolyn, my deepest condolencies to your family.
+Carolyn, I'm lucky to have called you my friend. Thank you for being there for me during difficult times, and thank you for being a role model. I, like so many others, will miss you dearly. Rest in peace.
